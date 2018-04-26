@@ -1,8 +1,16 @@
 # grunt-google-cdn [![Build Status](https://travis-ci.org/btford/grunt-google-cdn.png)](https://travis-ci.org/btford/grunt-google-cdn)
  Grunt task for replacing refs to resources on the [Google CDN](https://developers.google.com/speed/libraries/devguide)
 
+
+---
+
+**Disclaimer:** this was originally developed by #[Brian Ford](https://github.com/btford). I just forked that repo to make a version that can run on Node 10
+
+---
+
+
 ## Getting Started
-This plugin requires Grunt `~0.4.0`
+This plugin requires Grunt `~1.0.1`
 
 If you haven't used [Grunt](http://gruntjs.com/) before, be sure to check out the [Getting Started](http://gruntjs.com/getting-started) guide, as it explains how to create a [Gruntfile](http://gruntjs.com/sample-gruntfile) as well as install and use Grunt plugins. Once you're familiar with that process, you may install this plugin with this command:
 
