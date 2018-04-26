@@ -15,7 +15,7 @@
     "each-async": "^1.1.1",
     "bower": ">=1.0.0",
     "chalk": "^1.0.0",
-    "google-cdn": "^1.0.0"
+    "google-cdn": "^1.1.0"
   },
   "repository": {
     "type": "git",

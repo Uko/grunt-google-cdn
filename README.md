@@ -92,7 +92,3 @@ For options consult the [google-cdn docs](https://github.com/passy/google-cdn#ap
  * 2013-02-24   v0.1.0   add support for versions, hositing to avoid conflicts with usemin
  * 2013-02-18   v0.0.1   Initial Commit
 
----
-
-## License
-BSD
